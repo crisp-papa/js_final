@@ -1,4 +1,4 @@
-js_final
+Javascript Final
 ========
 
 Javascript Final
