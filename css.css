@@ -1,0 +1,54 @@
+body {
+	background-color: #fefefe;
+	color: #222;
+}
+
+h1 {
+	text-align: center;
+	color: #369;
+}
+
+.contentBox {
+	
+	width: 500px;
+	border: 1px solid #111;
+	margin: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0.5em;
+	border-radius: 10px;
+
+}
+.scrollBoxWrapper {
+	border: 1px solid #999;
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+	padding-left: 0.5em;
+}
+.scrollBox {
+	height: 150px;
+	overflow: auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.hidden { 
+	display: none; 
+					
+	background-color: #142549;
+	border: 10px;
+	border-top-left-radius: 30px;
+	border-bottom-right-radius: 30px;				
+	border-width: 3px;
+	border-color: white;
+	color: white;
+	font-size: 20px;
+	padding: 25px;
+	width: 400px;
+}
